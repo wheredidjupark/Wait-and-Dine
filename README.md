@@ -2,3 +2,5 @@ Using the AngularJS application skeleton provided by Fred Sauer from Google, I'm
 
 Skills:
 HTML, CSS, Twitter Bootstrap, Angular.js, JavaScript
+
+Currently under development
